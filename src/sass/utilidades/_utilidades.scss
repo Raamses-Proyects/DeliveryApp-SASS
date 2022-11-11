@@ -1,0 +1,7 @@
+@use 'base/variables' as v;
+.text-center {
+    text-align: center;
+}
+.mt-5 {
+    margin-top: v.$separacion;
+}
